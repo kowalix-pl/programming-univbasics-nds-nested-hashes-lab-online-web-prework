@@ -35,6 +35,7 @@ def aoh_lookup(aoh, row, key)
        {:name=>"Pat Monteseian", :occupation=>"Staff"},
        {:name=>"Kate Gompert", :occupation=>"None"},
        {:name=>"Bruce Green", :occupation=>"Fan of Mildred"}]
+      
        aoh_lookup = result[2][:name]
 end
 
